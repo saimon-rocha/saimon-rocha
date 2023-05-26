@@ -6,7 +6,7 @@
 ✨ 🤓  Conhecimentos: HTML5, CSS, JavaScript, Python, Node.JS, PHP, Laravel, Postgresql.</br>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</br>
 
-![Saimon GitHub stats](https://github-readme-stats.vercel.app/api?username=SaimonRocha&show_icons=true&theme=dracula&count_private=true)
+![Saimon GitHub stats](https://github-readme-stats.vercel.app/api?username=saimon-rocha&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia.
 <div style="display: inline_block">
