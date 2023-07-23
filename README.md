@@ -1,5 +1,5 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</br>
-✨ Olá, seja muito bem vindo(a) ao meu pefil.
+✨ Olá, seja muito bem vindo(a) ao meu pefil.</br>
 ✨ 👨‍🎓  Me chamo Saimon e espero que encontre o que deseja.</br>
 ✨ 🧠  Estudante de Ciência da Computação na Federal de Passo Fundo, Rio Grande do Sul.</br>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</br>
