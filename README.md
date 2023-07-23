@@ -4,7 +4,7 @@
 ✨ 🧠  Estudante de Ciência da Computação na Federal de Passo Fundo, Rio Grande do Sul.</br>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</br>
 
-![Saimon GitHub stats](https://github-readme-stats.vercel.app/api?username=saimon-rocha&show_icons=true&theme=dracula&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saimon-rocha&show_icons=true&theme=transparent)
 
 ## Tecnologias que eu uso no meu dia.
 <div style="display: inline_block">
