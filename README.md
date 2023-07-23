@@ -1,9 +1,7 @@
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</br>
-✨ 👨‍🎓  Olá, eu sou Saimon, seja muito bem vindo(a) ao meu pefil.</br>
-✨ 🧠  Estudante de Ciência da Computação na federal de passo fundo.</br>
-✨ 💼  Já atuei em diversos projetos, desde restaurantes, imobiliarias e distribuidoras.</br>
-✨ 💪  Competência: Analítico, Formal, cooperativo com trabalho em equipe, dedicado e dinâmico.</br>
-✨ 🤓  Conhecimentos: HTML5, CSS, JavaScript, Python, Node.JS, PHP, Laravel, Postgresql.</br>
+✨ Olá, seja muito bem vindo(a) ao meu pefil.
+✨ 👨‍🎓  Me chamo Saimon e espero que encontre o que deseja.</br>
+✨ 🧠  Estudante de Ciência da Computação na Federal de Passo Fundo, Rio Grande do Sul.</br>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</br>
 
 ![Saimon GitHub stats](https://github-readme-stats.vercel.app/api?username=saimon-rocha&show_icons=true&theme=dracula&count_private=true)
