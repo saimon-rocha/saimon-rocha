@@ -52,7 +52,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githack.com/saimon-rocha/saimon-rocha/output/snake.svg" alt="Snake animation" />
-
-
 ###
