@@ -1,4 +1,14 @@
-<h2 align="left">Seja Bem vindo(a) ao meu Perfil!</h2>
+<h2>👋 Olá, seja bem-vindo ao meu perfil!</h2>
+
+<p>🎓 <strong>Ciência da Computação</strong> | Instituto Federal do Rio Grande do Sul (IFSUL)</p>
+<p>💻 <strong>Desenvolvedor de Software</strong></p>
+
+<p>Atuo com desenvolvimento de software, criando soluções eficientes e escaláveis. Tenho experiência em <strong>Node.js, PHP (Laravel), PostgreSQL, Python, React, HTML5, CSS, JavaScript, Tailwind e Angular.js</strong>.</p>
+
+<p>🚀 Meu foco é aprimorar minhas habilidades e contribuir para projetos inovadores.</p>
+
+<p>📩 <strong>Contato:</strong> <a href="mailto:saimon.rocha07@gmail.com">saimon.rocha07@gmail.com</a></p>
+
 
 ###
 
