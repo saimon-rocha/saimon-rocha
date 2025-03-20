@@ -1,14 +1,16 @@
 <h2>👋 Olá, seja bem-vindo ao meu perfil!</h2>
 
-<p>🎓 <strong>Ciência da Computação</strong> | Instituto Federal do Rio Grande do Sul (IFSUL)</p>
+<p><strong>Sou Saimon</strong> e convido você a conhecer meus projetos.</p>
+
 <p>💻 <strong>Desenvolvedor de Software</strong></p>
 
-<p>Atuo com desenvolvimento de software, criando soluções eficientes e escaláveis. Tenho experiência em <strong>Node.js, PHP (Laravel), PostgreSQL, Python, React, HTML5, CSS, JavaScript, Tailwind e Angular.js</strong>.</p>
+<p>Atualmente atuo como desenvolvedor júnior, trazendo uma forte bagagem em suporte e infraestrutura de TI, área na qual atuo desde 2020. 
+Minha experiência me proporciona uma visão ampla dos negócios, permitindo entender não apenas o que deve ser desenvolvido, mas também como entregar valor, planejar soluções e negociar estratégias de forma eficiente.</p>
 
-<p>🚀 Meu foco é aprimorar minhas habilidades e contribuir para projetos inovadores.</p>
+<p>Estou em constante evolução, buscando me tornar um profissional completo, capaz de ir além do código. Quero contribuir não apenas com desenvolvimento técnico, 
+mas também com liderança, colaboração e impacto positivo na equipe. Meu objetivo é ser um profissional que faz a diferença, tanto no trabalho quanto no ambiente ao redor.</p>
 
-<p>📩 <strong>Contato:</strong> <a href="mailto:saimon.rocha07@gmail.com">saimon.rocha07@gmail.com</a></p>
-
+<p>🚀 Sempre em busca de aprendizado e inovação!</p>
 
 ###
 
